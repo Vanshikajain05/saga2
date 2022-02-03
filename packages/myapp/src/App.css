@@ -1,0 +1,29 @@
+.button-css {
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+  margin-left: 250px;
+  margin-right: 50px;
+  margin-bottom: 40px;
+}
+.flex-data {
+  display: grid;
+  grid-template-columns: 500px 100px 10px;
+}
+.data-space {
+  margin-right: 300px;
+  margin-bottom: 10px;
+}
+
+.bt {
+  margin-top: 30px;
+  margin-left: 100px;
+  margin-right: 30px;
+  margin-bottom: 40px;
+}
+.user-data {
+  margin-left: 300px;
+}
+.close:hover {
+  color: red;
+}
